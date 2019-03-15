@@ -85,6 +85,7 @@
                             <configOptions>
                                 <sourceFolder>src/main/java</sourceFolder>
                                 <java8>true</java8>
+                                <hideGenerationTimestamp>true</hideGenerationTimestamp>
                             </configOptions>
                         </configuration>
                     </execution>
